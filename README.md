@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ecem Lodos</h1>
-<h3 align="center">Eskişehir Teknik Üniversitesi son sınıf öğrencisi, Bentego firmasında gönüllü stajyerim.</h3>
+<h3 align="center">Eskişehir Teknik Üniversitesi son sınıf öğrencisi, Ford Otosan Gelecek Tasarımcıları .Net stajyeriyim.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.Net**
 
 
 ## 🌐Socials
